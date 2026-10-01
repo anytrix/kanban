@@ -1,0 +1,4 @@
+﻿node_modules/
+kanban.db-shm
+kanban.db-wal
+.env
